@@ -5,7 +5,7 @@ This analysis was completed for the CareerFoundry advanced analytics assignment 
 The purpose of this project was to conduct an exploratory visual analysis to investigate the impact of listing variables such as neighbourhood, room type, minimum night stays and more on the availability and reviews of Airbnb listings in Vancouver.
 
 ## Data
-The data used for this project was sourced from Inside Airbnb. The website is not affiliated or sponsored by Airbnb - it is a website that generates data using public listing information from Airbnb's official website. The data can be accessed here http://insideairbnb.com/get-the-data
+The data used for this project was sourced from Inside Airbnb. The website is not affiliated or sponsored by Airbnb - it is a website that generates data using public listing information from Airbnb's official website. The data can be accessed [here](http://insideairbnb.com/get-the-data). 
 
 ## Tools
 
@@ -22,3 +22,7 @@ Software: Jupyter Notebooks, Excel, Tableau
 4. Exploring supervised machine learning techniques - running linear regression models on data and assessing model performance
 5. Exploring unsupervised machine learning techniques - running kMeans cluster analysis models and assessing outcomes
 6. Conducting time series analysis using data from Quandl
+
+## Deliverables
+
+Tableau presentation for this project can be found [here](https://public.tableau.com/shared/9N92PMC2B?:display_count=n&:origin=viz_share_link).
